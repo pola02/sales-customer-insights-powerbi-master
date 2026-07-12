@@ -120,10 +120,3 @@ A fully interactive, secure, and dynamic Power BI dashboard that:
 - DAX  
 - Excel
 
----
-
-## 📚 Author
-**Mohamed Heta**  
-Data Analyst | Power BI Developer  
-#MAKE_DATA_TALK  
-#معلومة_في_السكة
